@@ -42,7 +42,7 @@ export default {
         },
         {
           name: 'Movie',
-          href: '/movie/tt4520988',
+          href: '/movie',
           path: /^\/movie/    // 슬러시 movie로 시작하는 경로인 경우에 일치하겠다.
         },
         {
